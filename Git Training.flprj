@@ -1,2 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultProject Version="1" xml:lang="en-us" SourceControlProviderType="Git" ProjectGuid="c8375674-d913-4073-9801-73c612a48cf3" SourceControlBound="true" />
+<CatapultProject Version="1" xml:lang="en-us" SourceControlProviderType="Git" ProjectGuid="c8375674-d913-4073-9801-73c612a48cf3" SourceControlBound="true">
+    <Synchronize>
+        <Mapping ProjectPath="Content/Resources/Images/dietcoke.jpg" ExternalPath="file:///C:/Users/rr146301/Downloads/dietcoke.jpg" />
+    </Synchronize>
+</CatapultProject>
